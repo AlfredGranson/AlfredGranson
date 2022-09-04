@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+>I'm @AlfredGranson
+
+- 👀 I’m interested in ...
+  Devops 😄
+- 🌱 I’m currently learning ...
+  [Graphit](https://www.graphiti.dev/guides/)
+  
 <!--
 **AlfredGranson/AlfredGranson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
