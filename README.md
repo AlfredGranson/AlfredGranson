@@ -3,7 +3,7 @@
 >I'm @AlfredGranson
 
 - 👀 I’m interested in ...
-  Devops 😄
+  [Phoenix](https://www.phoenixframework.org/)
 - 🌱 I’m currently learning ...
   [Graphiti](https://www.graphiti.dev/guides/)
   
